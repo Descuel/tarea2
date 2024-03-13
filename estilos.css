@@ -1,0 +1,52 @@
+.principal{
+    background-color: aqua;
+    padding: 10px;
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: nowrap;
+    align-content: space-around;
+}
+.caja{
+    background-color: aquamarine;
+    margin: 5px;
+    width: 450px;
+    height: 350px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    flex-grow: 1;
+}
+.caja1{
+    background-color: chartreuse;
+    margin: 5px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    flex-grow: 1;
+}
+.caja2{
+    background-color: dodgerblue;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    flex-grow: 1;
+}
+.caja3{
+    background-color: darkseagreen;
+    margin: 5px;
+    width: 360px;
+    height: 25px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    flex-grow: 1;
+}
